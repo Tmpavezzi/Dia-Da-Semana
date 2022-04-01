@@ -1,6 +1,6 @@
 Scanner entrada = new Scanner (System.in);
     System.out.print("Pergunta ?");
-botão
+
     char responda = entrada.next().charAt(0);
 
     switch(responda){
